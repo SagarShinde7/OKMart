@@ -42,6 +42,6 @@ Payment page
 ![image](https://github.com/SagarShinde7/OKMart/assets/106909440/55425a70-e946-427d-acb0-14554c769853)
 
 
-Project Partners
-Apeksha Kanthe - https://github.com/apekshakanthe/okmart
-Divya Revankar - https://github.com/divyaaa56/Okmartt
+Project Partners:
+1. Apeksha Kanthe - https://github.com/apekshakanthe/okmart
+2. Divya Revankar - https://github.com/divyaaa56/Okmartt
